@@ -21,3 +21,4 @@
 * Grammar & Reasoning
   * Reasoning about Entailment with Neural Attention: https://arxiv.org/pdf/1509.06664v4.pdf
   * Reasoning With Neural Tensor Networks for Knowledge Base Completion: http://cs.stanford.edu/people/danqi/papers/nips2013.pdf
+  * Grammar as a Foreign Language: http://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
