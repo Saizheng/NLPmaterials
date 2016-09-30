@@ -1,6 +1,6 @@
 # NLPmaterials
 
-* Memory-related
+* ### Memory-related
   1. **Memory Networks**: https://arxiv.org/pdf/1410.3916v11.pdf
   2. **Neural Turing Machines**: https://arxiv.org/pdf/1410.5401v2.pdf
     1. Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes: https://arxiv.org/pdf/1607.00036v1.pdf
