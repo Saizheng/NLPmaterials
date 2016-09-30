@@ -9,9 +9,10 @@
 
 
 * Knowledge Base & Reasoning
-  1. CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases: https://arxiv.org/pdf/1606.01994v2.pdf
-  2. A Neural Knowledge Language Model: https://arxiv.org/pdf/1608.00318v1.pdf
-  3. Reasoning With Neural Tensor Networks for Knowledge Base Completion: http://cs.stanford.edu/people/danqi/papers/nips2013.pdf
-  4. Reasoning about Entailment with Neural Attention: https://arxiv.org/pdf/1509.06664v4.pdf
+  * A Review of Relational Machine Learning for Knowledge Graphs: https://arxiv.org/pdf/1503.00759v3.pdf
+  *  CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases: https://arxiv.org/pdf/1606.01994v2.pdf
+  * A Neural Knowledge Language Model: https://arxiv.org/pdf/1608.00318v1.pdf
+  * Reasoning With Neural Tensor Networks for Knowledge Base Completion: http://cs.stanford.edu/people/danqi/papers/nips2013.pdf
+  * Reasoning about Entailment with Neural Attention: https://arxiv.org/pdf/1509.06664v4.pdf
 
 
