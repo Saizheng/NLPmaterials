@@ -6,5 +6,8 @@
     1. Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes: https://arxiv.org/pdf/1607.00036v1.pdf
   3. End-To-End Memory Networks: https://arxiv.org/pdf/1503.08895.pdf
     1. Key-Value Memory Networks for Directly Reading Documents: https://arxiv.org/pdf/1606.03126v1.pdf
+    
+* Knowledge Base
+  1. CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases: https://arxiv.org/pdf/1606.01994v2.pdf
 
 
