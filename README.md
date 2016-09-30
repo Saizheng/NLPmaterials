@@ -1,4 +1,4 @@
-# NLPmaterials
+# NLP Reading List
 
 * Memory-related
   * Memory Networks: https://arxiv.org/pdf/1410.3916v11.pdf
