@@ -1,6 +1,9 @@
 # NLP Reading List
 
 * Memory-related
+  * Neural Machine Translation by Jointly Learning to Align and Translate: https://arxiv.org/pdf/1409.0473v7.pdf
+    1. Long Short-Term Memory-Networks for Machine Reading: http://arxiv.org/pdf/1601.06733v6.pdf
+    2. Recurrent Memory Networks for Language Modeling: https://arxiv.org/pdf/1601.01272v2.pdf
   * Memory Networks: https://arxiv.org/pdf/1410.3916v11.pdf
   * Neural Turing Machines: https://arxiv.org/pdf/1410.5401v2.pdf
     1. Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes: https://arxiv.org/pdf/1607.00036v1.pdf
