@@ -19,6 +19,8 @@
   *  CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases: https://arxiv.org/pdf/1606.01994v2.pdf
   * A Neural Knowledge Language Model: https://arxiv.org/pdf/1608.00318v1.pdf
   * Reasoning With Neural Tensor Networks for Knowledge Base Completion: http://cs.stanford.edu/people/danqi/papers/nips2013.pdf
+  * Harnessing Deep Neural Networks with Logic Rules: https://arxiv.org/pdf/1603.06318v3.pdf
+  * Can recursive neural tensor networks learn logical reasoning?: http://web.stanford.edu/~sbowman/arxiv_submission.pdf
   
 
 * Grammar & Reasoning
