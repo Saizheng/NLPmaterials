@@ -26,5 +26,5 @@
   * [Reasoning about Entailment with Neural Attention (Deepmind)](https://arxiv.org/pdf/1509.06664v4.pdf)
   * [Grammar as a Foreign Language (Google)](http://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf)
   * [Harnessing Deep Neural Networks with Logic Rules (CMU)](https://arxiv.org/pdf/1603.06318v3.pdf)
-  * [Can recursive neural tensor networks learn logical reasoning? (Stanford)]( http://web.stanford.edu/~sbowman/arxiv_submission.pdf)
+  * [Recursive Neural Networks Can Learn Logical Semantics (Stanford)](https://aclweb.org/anthology/W/W15/W15-4002.pdf)
   * [Towards Neural Network-based Reasoning (Huawei)](https://arxiv.org/pdf/1508.05508v1.pdf)
