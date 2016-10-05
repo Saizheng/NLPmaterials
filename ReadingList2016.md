@@ -22,6 +22,7 @@
   * [A Neural Knowledge Language Model (UdeM)](https://arxiv.org/pdf/1608.00318v1.pdf)
   * [Reasoning With Neural Tensor Networks for Knowledge Base Completion (Stanford)] (http://cs.stanford.edu/people/danqi/papers/nips2013.pdf)
   * [Learning Structured Embeddings of Knowledge Bases (UdeM)](http://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
+  * [Neural Enquirer: Learning to Query Tables with Natural Language (Huawei)](https://arxiv.org/pdf/1512.00965v2.pdf)
   
   
 
