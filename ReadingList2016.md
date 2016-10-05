@@ -1,4 +1,4 @@
-# NLP Reading List
+#NLP ReadingList 2016
 
 * Memory-related
   * [Neural Machine Translation by Jointly Learning to Align and Translate (UdeM)](https://arxiv.org/pdf/1409.0473v7.pdf)
