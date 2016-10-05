@@ -11,6 +11,7 @@
     1. [Key-Value Memory Networks for Directly Reading Documents (FAIR, CMU)](https://arxiv.org/pdf/1606.03126v1.pdf)
   * [Pointer Networks (Google)](https://arxiv.org/pdf/1506.03134v1.pdf)
     1. [Natural Language Comprehension with the EpiReader (Maluuba)](http://arxiv.org/pdf/1606.02270v2.pdf)
+    2. [Text Understanding with the Attention Sum Reader Network](https://arxiv.org/pdf/1603.01547.pdf)
   * [Learning Efficient Algorithms with Hierarchical Attentive Memory (Deepmind)](https://arxiv.org/pdf/1602.03218v2.pdf)
   
 
