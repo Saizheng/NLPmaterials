@@ -13,6 +13,7 @@
     1. [Natural Language Comprehension with the EpiReader (Maluuba)](http://arxiv.org/pdf/1606.02270v2.pdf)
     2. [Text Understanding with the Attention Sum Reader Network (IBM)](https://arxiv.org/pdf/1603.01547.pdf)
   * [Learning Efficient Algorithms with Hierarchical Attentive Memory (Deepmind)](https://arxiv.org/pdf/1602.03218v2.pdf)
+  * [A Neural Transducer (Deepmind)](https://arxiv.org/pdf/1511.04868v4.pdf)
   
 
 * Knowledge Base
@@ -20,6 +21,7 @@
   * [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases (Toutiao)](https://arxiv.org/pdf/1606.01994v2.pdf)
   * [A Neural Knowledge Language Model (UdeM)](https://arxiv.org/pdf/1608.00318v1.pdf)
   * [Reasoning With Neural Tensor Networks for Knowledge Base Completion (Stanford)] (http://cs.stanford.edu/people/danqi/papers/nips2013.pdf)
+  * [Learning Structured Embeddings of Knowledge Bases (UdeM)](http://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
   
   
 
