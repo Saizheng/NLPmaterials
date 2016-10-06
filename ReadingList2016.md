@@ -32,3 +32,8 @@
   * [Harnessing Deep Neural Networks with Logic Rules (CMU)](https://arxiv.org/pdf/1603.06318v3.pdf)
   * [Recursive Neural Networks Can Learn Logical Semantics (Stanford)](https://aclweb.org/anthology/W/W15/W15-4002.pdf)
   * [Towards Neural Network-based Reasoning (Huawei)](https://arxiv.org/pdf/1508.05508v1.pdf)
+  
+
+* Dialog System & Chatbot
+  * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems (UdeM)](https://arxiv.org/pdf/1512.05742v2.pdf)
+  * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/pdf/1506.06714v1.pdf)
