@@ -36,4 +36,4 @@
 
 * Dialog System & Chatbot
   * [A Survey of Available Corpora For Building Data-Driven Dialogue Systems (UdeM)](https://arxiv.org/pdf/1512.05742v2.pdf)
-  * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/pdf/1506.06714v1.pdf)
+  * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses (UdeM)](https://arxiv.org/pdf/1506.06714v1.pdf)
