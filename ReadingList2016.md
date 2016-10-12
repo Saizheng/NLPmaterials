@@ -33,6 +33,7 @@
   * [Harnessing Deep Neural Networks with Logic Rules (CMU)](https://arxiv.org/pdf/1603.06318v3.pdf)
   * [Recursive Neural Networks Can Learn Logical Semantics (Stanford)](https://aclweb.org/anthology/W/W15/W15-4002.pdf)
   * [Towards Neural Network-based Reasoning (Huawei)](https://arxiv.org/pdf/1508.05508v1.pdf)
+  * [Gated Graph Sequence Neural Networks (Toronto)](https://arxiv.org/pdf/1511.05493v3.pdf)
   * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges (very weird)](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
   
 
