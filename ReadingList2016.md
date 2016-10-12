@@ -27,12 +27,13 @@
   
 
 * Grammar & Reasoning
-  * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
+  * [From Machine Learning to Machine Reasoning](https://arxiv.org/pdf/1102.1808v3.pdf)
   * [Reasoning about Entailment with Neural Attention (Deepmind)](https://arxiv.org/pdf/1509.06664v4.pdf)
   * [Grammar as a Foreign Language (Google)](http://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf)
   * [Harnessing Deep Neural Networks with Logic Rules (CMU)](https://arxiv.org/pdf/1603.06318v3.pdf)
   * [Recursive Neural Networks Can Learn Logical Semantics (Stanford)](https://aclweb.org/anthology/W/W15/W15-4002.pdf)
   * [Towards Neural Network-based Reasoning (Huawei)](https://arxiv.org/pdf/1508.05508v1.pdf)
+  * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges (very weird)](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
   
 
 * Dialog System & Chatbot
