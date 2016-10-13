@@ -8,6 +8,7 @@
     1. [Hierarchical Memory Networks (UdeM)](https://arxiv.org/pdf/1605.07427v1.pdf)
   * [Neural Turing Machines (Deepmind)](https://arxiv.org/pdf/1410.5401v2.pdf)
     1. [Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes (UdeM)](https://arxiv.org/pdf/1607.00036v1.pdf)
+  * [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/pdf/1506.07285v5.pdf)
   * [End-To-End Memory Networks (FAIR, NYU)](https://arxiv.org/pdf/1503.08895.pdf)
     1. [Key-Value Memory Networks for Directly Reading Documents (FAIR, CMU)](https://arxiv.org/pdf/1606.03126v1.pdf)
   * [Pointer Networks (Google)](https://arxiv.org/pdf/1506.03134v1.pdf)
