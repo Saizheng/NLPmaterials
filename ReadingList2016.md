@@ -5,6 +5,7 @@
     1. [Long Short-Term Memory-Networks for Machine Reading (Edinburgh)](http://arxiv.org/pdf/1601.06733v6.pdf)
     2. [Recurrent Memory Networks for Language Modeling (Amsterdam)](https://arxiv.org/pdf/1601.01272v2.pdf)
   * [Memory Networks (FAIR)](https://arxiv.org/pdf/1410.3916v11.pdf)
+    1. [Hierarchical Memory Networks](https://arxiv.org/pdf/1605.07427v1.pdf)
   * [Neural Turing Machines (Deepmind)](https://arxiv.org/pdf/1410.5401v2.pdf)
     1. [Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes (UdeM)](https://arxiv.org/pdf/1607.00036v1.pdf)
   * [End-To-End Memory Networks (FAIR, NYU)](https://arxiv.org/pdf/1503.08895.pdf)
