@@ -17,7 +17,6 @@
     3. [Text Understanding with the Attention Sum Reader Network (IBM)](https://arxiv.org/pdf/1603.01547.pdf)
     4. [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905v1.pdf)
   * [Learning Efficient Algorithms with Hierarchical Attentive Memory (Deepmind)](https://arxiv.org/pdf/1602.03218v2.pdf)
-  * [A Neural Transducer (Deepmind)](https://arxiv.org/pdf/1511.04868v4.pdf)
   * [Teaching Machines to Read and Comprehend(Deepmind)](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
   
 
@@ -42,6 +41,10 @@
   * [Gated Graph Sequence Neural Networks (Toronto)](https://arxiv.org/pdf/1511.05493v3.pdf)
   * [Learning to Execute](https://arxiv.org/abs/1410.4615)
   * [LEARNING SIMPLE ALGORITHMS FROM EXAMPLES](https://arxiv.org/pdf/1511.07275v2.pdf)
+  * [NEURAL PROGRAMMER-INTERPRETERS](https://arxiv.org/pdf/1511.06279v4.pdf)
+  * [Learning to Transduce with Unbounded Memory](https://arxiv.org/pdf/1506.02516.pdf)
+  * [NEURAL RANDOM-ACCESS MACHINES](https://arxiv.org/pdf/1511.06392v3.pdf)
+  * [A Neural Transducer (Deepmind)](https://arxiv.org/pdf/1511.04868v4.pdf)
   * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges (very weird)](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
   
 
