@@ -28,17 +28,20 @@
   * [Reasoning With Neural Tensor Networks for Knowledge Base Completion (Stanford)] (http://cs.stanford.edu/people/danqi/papers/nips2013.pdf)
   * [Learning Structured Embeddings of Knowledge Bases (UdeM)](http://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
   * [Neural Enquirer: Learning to Query Tables with Natural Language (Huawei)](https://arxiv.org/pdf/1512.00965v2.pdf)
-  
+  * [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks (Umass)](https://arxiv.org/pdf/1607.01426.pdf)
+  * [Compositional Vector Space Models for Knowledge Base Completion](https://arxiv.org/pdf/1504.06662.pdf)
   
 
 * Grammar & Reasoning
-  * [From Machine Learning to Machine Reasoning](https://arxiv.org/pdf/1102.1808v3.pdf)
+  * [From Machine Learning to Machine Reasoning (Bottou)](https://arxiv.org/pdf/1102.1808v3.pdf)
   * [Reasoning about Entailment with Neural Attention (Deepmind)](https://arxiv.org/pdf/1509.06664v4.pdf)
   * [Grammar as a Foreign Language (Google)](http://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf)
   * [Harnessing Deep Neural Networks with Logic Rules (CMU)](https://arxiv.org/pdf/1603.06318v3.pdf)
   * [Recursive Neural Networks Can Learn Logical Semantics (Stanford)](https://aclweb.org/anthology/W/W15/W15-4002.pdf)
   * [Towards Neural Network-based Reasoning (Huawei)](https://arxiv.org/pdf/1508.05508v1.pdf)
   * [Gated Graph Sequence Neural Networks (Toronto)](https://arxiv.org/pdf/1511.05493v3.pdf)
+  * [Learning to Execute](https://arxiv.org/abs/1410.4615)
+  * [LEARNING SIMPLE ALGORITHMS FROM EXAMPLES](https://arxiv.org/pdf/1511.07275v2.pdf)
   * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges (very weird)](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
   
 
