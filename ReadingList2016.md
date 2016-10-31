@@ -14,8 +14,11 @@
   * [Pointer Networks (Google)](https://arxiv.org/pdf/1506.03134v1.pdf)
     1. [Natural Language Comprehension with the EpiReader (Maluuba)](http://arxiv.org/pdf/1606.02270v2.pdf)
     2. [Text Understanding with the Attention Sum Reader Network (IBM)](https://arxiv.org/pdf/1603.01547.pdf)
+    3. [Text Understanding with the Attention Sum Reader Network (IBM)](https://arxiv.org/pdf/1603.01547.pdf)
+    4. [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905v1.pdf)
   * [Learning Efficient Algorithms with Hierarchical Attentive Memory (Deepmind)](https://arxiv.org/pdf/1602.03218v2.pdf)
   * [A Neural Transducer (Deepmind)](https://arxiv.org/pdf/1511.04868v4.pdf)
+  * [Teaching Machines to Read and Comprehend(Deepmind)](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
   
 
 * Knowledge Base
