@@ -18,7 +18,7 @@
     4. [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905v1.pdf)
   * [Learning Efficient Algorithms with Hierarchical Attentive Memory (Deepmind)](https://arxiv.org/pdf/1602.03218v2.pdf)
   * [Teaching Machines to Read and Comprehend(Deepmind)](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
-  
+  * [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](https://arxiv.org/pdf/1503.01007.pdf)
 
 * Knowledge Base
   * [A Review of Relational Machine Learning for Knowledge Graph](https://arxiv.org/pdf/1503.00759v3.pdf)
