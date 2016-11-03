@@ -46,6 +46,7 @@
   * [Neural Programmer: Inducing Latent Programs with Gradient Descent](https://arxiv.org/pdf/1511.04834.pdf)
   * [Neural GPUs Learn Algorithms](https://arxiv.org/pdf/1511.08228v3.pdf)
   * [Neural Enquirer: Learning to Query Tables with Natural Language (Huawei)](https://arxiv.org/pdf/1512.00965v2.pdf)
+  * [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/pdf/1601.01705v4.pdf)
   * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges (very weird)](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
   
 
