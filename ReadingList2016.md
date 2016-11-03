@@ -25,7 +25,6 @@
   * [A Neural Knowledge Language Model (UdeM)](https://arxiv.org/pdf/1608.00318v1.pdf)
   * [Reasoning With Neural Tensor Networks for Knowledge Base Completion (Stanford)] (http://cs.stanford.edu/people/danqi/papers/nips2013.pdf)
   * [Learning Structured Embeddings of Knowledge Bases (UdeM)](http://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
-  * [Neural Enquirer: Learning to Query Tables with Natural Language (Huawei)](https://arxiv.org/pdf/1512.00965v2.pdf)
   * [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks (Umass)](https://arxiv.org/pdf/1607.01426.pdf)
   * [Compositional Vector Space Models for Knowledge Base Completion](https://arxiv.org/pdf/1504.06662.pdf)
   
@@ -46,6 +45,7 @@
   * [A Neural Transducer (Deepmind)](https://arxiv.org/pdf/1511.04868v4.pdf)
   * [Neural Programmer: Inducing Latent Programs with Gradient Descent](https://arxiv.org/pdf/1511.04834.pdf)
   * [Neural GPUs Learn Algorithms](https://arxiv.org/pdf/1511.08228v3.pdf)
+  * [Neural Enquirer: Learning to Query Tables with Natural Language (Huawei)](https://arxiv.org/pdf/1512.00965v2.pdf)
   * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges (very weird)](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
   
 
