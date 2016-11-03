@@ -45,6 +45,7 @@
   * [NEURAL RANDOM-ACCESS MACHINES](https://arxiv.org/pdf/1511.06392v3.pdf)
   * [A Neural Transducer (Deepmind)](https://arxiv.org/pdf/1511.04868v4.pdf)
   * [NEURAL PROGRAMMER: INDUCING LATENT PROGRAMS WITH GRADIENT DESCENT](https://arxiv.org/pdf/1511.04834.pdf)
+  * [NEURAL GPUS LEARN ALGORITHMS](https://arxiv.org/pdf/1511.08228v3.pdf)
   * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges (very weird)](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10281/10029&sa=U&ved=0CAQQFjAAahUKEwjd3tPQqPvGAhWCVhQKHacjCJQ&client=internal-uds-cse&usg=AFQjCNF4wF1u_JS20P9rQfT25aSsc26HMg)
   
 
